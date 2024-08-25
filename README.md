@@ -24,7 +24,7 @@ https://seudominio.com/7xqKWj2di/index.php
 
 A página simula uma interface de visualização de vídeo do YouTube:
 
-![Simulação da Página do YouTube](https://raw.githubusercontent.com/them3x/iplogger/main/pints/pagina-youtube.png)
+![Simulação da Página do YouTube](https://raw.githubusercontent.com/them3x/iplogger/main/prints/pagina-youtube.png)
 
 #### 📊 Informações Capturadas
 - **Básico:** IP, User-Agent e resolução de tela.
@@ -56,7 +56,7 @@ function getYouTubeTitle($videoId) {
 
 Esse detalhe permite que aplicativos como WhatsApp ou Instagram carreguem parcialmente informações do vídeo, tornando o IP Logger mais crível:
 
-![Pré-visualização no WhatsApp](https://raw.githubusercontent.com/them3x/iplogger/main/pints/print-wpp.png)
+![Pré-visualização no WhatsApp](https://raw.githubusercontent.com/them3x/iplogger/main/prints/print-wpp.png)
 
 <hr>
 
@@ -70,7 +70,7 @@ https://seudominio.com/
 
 A página de administração exibe todas as informações coletadas com sucesso:
 
-![Painel Administrativo](https://raw.githubusercontent.com/them3x/iplogger/main/pints/adm.png)
+![Painel Administrativo](https://raw.githubusercontent.com/them3x/iplogger/main/prints/adm.png)
 
 ---
 
