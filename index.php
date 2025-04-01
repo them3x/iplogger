@@ -1,7 +1,7 @@
 <?php
 
-include "7xqKWj2di/actions.php";
-include "7xqKWj2di/config.php";
+include "watch/actions.php";
+include "watch/config.php";
 
 $arquivo = $logFile;
 $dados = getContent($arquivo);
@@ -86,7 +86,7 @@ if ($senha != $adminPWD){
 }
 
 if (intval($del) == "1"){
-	$files = glob('7xqKWj2di/uploads/*.jpg');
+	$files = glob('watch/uploads/*.jpg');
 	foreach ($files as $file) {
 	    if (is_file($file)) {
 	        unlink($file);
@@ -140,7 +140,7 @@ foreach (array_reverse($dados) as $ip => $itens) {
 	}
 
 	if ($foto != 0){
-		$foto = '<img src="7xqKWj2di/uploads/' . $foto . '" alt="FOTO" class="client-photo">';
+		$foto = '<img src="watch/uploads/' . $foto . '" alt="FOTO" class="client-photo">';
 	}else{
 		$foto = "";
 	}
