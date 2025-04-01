@@ -56,7 +56,7 @@ function getYouTubeTitle($videoId) {
 
 Esse detalhe permite que aplicativos como WhatsApp ou Instagram carreguem parcialmente informações do vídeo, tornando o IP Logger mais crível:
 
-![Pré-visualização no WhatsApp](https://raw.githubusercontent.com/them3x/iplogger/main/prints/print-wpp.png)
+![Pré-visualização no WhatsApp](https://raw.githubusercontent.com/them3x/iplogger/refs/heads/main/prints/print-wpp.png)
 
 <hr>
 
